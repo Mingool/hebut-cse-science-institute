@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+/*commons*/
+body{padding:0; margin:0; font-family:"宋体"; font-size:12px; color:#000; background:url(../images/body-bg.jpg) no-repeat center top;}
+div,a,img,h2,h3,h4,p,span,ul,li,dl,dt,dd{padding:0; margin:0; border:0; list-style:none;}
+a:link,a:visited{color:#000; text-decoration:none;}
+a:hover{text-decoration:underline;}
+/*nav*/
+#nav{width:980px; height:57px; margin:0 auto;}
+#nav ul{width:310px; height:40px; padding:17px 23px 0 0; float:right;}
+.navIndex:hover{background:url(../images/nav-index3.jpg) no-repeat;}/*a也是标签可以加class属性，a:hover;中的a可以用class名代替，不能写成class a:hover;这描述的是a中的a标签的鼠标经过情况。*/
+.navNews:hover{background:url(../images/nav-news3.jpg) no-repeat;}
+.navContact:hover{background:url(../images/nav-contact3.jpg) no-repeat;}
+.navAbout:hover{background:url(../images/nav-about3.jpg) no-repeat;}
+.navAdmin:hover{background:url(../images/nav-admin3.jpg) no-repeat;}
+#headerBg{width:980px; height:411px; margin:88px auto 0;}
+/*contact*/
+.contact h2{width:240px; height:40px; margin:0 10px 11px;}
+.contact p{padding:15px 20px 0; line-height:25px;}
+/*link*/
+.link a:link,.link a:visited{font-size:14px; color:#39C; font-weight:bold; text-decoration:none}
+.link a:hover{font-size:14px; color:#39C; font-weight:bold; text-decoration:underline;}
+/*footer*/
+#footer{width:100%; height:80px; background:#7D7D7D; margin-top:10px;}
+#footer .footer{width:980px; height:60px; margin:0 auto; text-align:center; line-height:30px; padding-top:5px;}

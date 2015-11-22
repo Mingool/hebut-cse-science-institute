@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+/*nav*/
+.navIndex{width:62px; height:40px; float:right; background:url(../images/nav-index2.jpg) no-repeat;}
+.navNews{width:62px; height:40px; float:right; background:url(../images/nav-news1.jpg) no-repeat;}
+.navContact{width:62px; height:40px; float:right; background:url(../images/nav-contact1.jpg) no-repeat;}
+.navAbout{width:62px; height:40px; float:right; background:url(../images/nav-about1.jpg) no-repeat;}
+.navAdmin{width:62px; height:40px; float:right; background:url(../images/nav-admin1.jpg) no-repeat;}
+/*contentTop*/
+#contentTop{width:980px; height:480px; margin:10px auto 0;}
+/*news*/
+.news{width:258px; height:470px; background:url(../images/index-news-bg.jpg) no-repeat; padding:10px 1px 0; float:left;}
+.news h2{width:240px; height:40px; position:relative; margin:0 9px 11px;}
+.More{font-size:14px; position:absolute; right:0; bottom:0;}
+.More:link, .More:visited{color:#408CFF; text-decoration:none;}
+.More:hover{ text-decoration:underline;}
+.news .image{width:220px; height:120px; margin:17px 17px 8px; border:1px solid #666;}
+.news h3{margin:0 auto; font-size:14px; text-align:center; height:18px; line-height:18px;}
+.news .newsContent{ text-indent:2em; padding:0 9px 14px; line-height:16px; background:url(../images/line1.jpg) repeat-x left bottom;}
+.news p a:link,.news p a:visited{color:#408CFF; text-decoration:none;}
+.news p a:hover{color:#408CFF; text-decoration:underline;}
+.news ul{height:25px; background:url(../images/line1.jpg) repeat-x left bottom; padding:8px 0 0 10px;}
+.news li{ background:url(../images/sign.jpg) no-repeat left center; padding-left:15px;}
+/*presentation*/
+.presentation{width:710px; height:190px; background:url(../images/index-presentation-bg.jpg) no-repeat; padding-top:10px; float:right; margin-bottom:20px;}
+.presentation h2{width:690px; height:40px; position:relative; margin:0 10px 11px;}
+.presentation dl{width:660px; height:120px; padding:10px 25px 0;}
+.presentation dt{width:110px; height:110px; border:1px solid #666; float:left;}
+.presentation dd{width:520px; height:110px; line-height:23px; float:right; padding-top:5px; text-indent:2em;}
+/*picture*/
+.picture{width:710px; height:260px; background:#FFF; float:right;}
+/*achievement*/
+.achievement{width:980px; height:250px; margin:10px auto 0; background:url(../images/index-achievement-bg.jpg) no-repeat; padding-top:10px;}
+.achievement h2{width:960px; height:40px; position:relative; margin:0 10px 11px;}
+.achievement ul{width:980px; height:180px;}
+.achievement li{float:left; padding:25px 40px 0; width:113px; height:155px;}
+.achievement .picture{ border:1px solid #CCC; padding:2px; width:110px; height:110px;}
+.achievement p{ text-align:center; height:40px; line-height:40px;}
+.achievement a:link,.achievement a:visited{color:#408CFF; text-decoration:none;}
+.achievement a:hover{color:#408CFF; text-decoration:underline;}
+/*contentBottom*/
+#contentBottom{width:980px; height:230px; margin:10px auto 0;}
+/*contact*/
+.contact{width:260px; height:220px; background:url(../images/index-contact-bg.jpg) no-repeat; padding-top:10px; float:left;}
+/*link*/
+.link{width:710px; height:220px; background:url(../images/index-link-bg.jpg) no-repeat; padding-top:10px; float:right;}
+.link h2{width:690px; height:40px; margin:0 10px 11px;}
+.link ul{width:660px; height:145px; padding:15px 25px 0;}
+.link li{width:330px; height:35px; line-height:35px; float:left;}
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+/*nav*/
+.navIndex{width:62px; height:40px; float:right; background:url(../../images/nav-index1.jpg) no-repeat;}
+.navNews{width:62px; height:40px; float:right; background:url(../../images/nav-news2.jpg) no-repeat;}
+.navContact{width:62px; height:40px; float:right; background:url(../../images/nav-contact1.jpg) no-repeat;}
+.navAbout{width:62px; height:40px; float:right; background:url(../../images/nav-about1.jpg) no-repeat;}
+.navAdmin{width:62px; height:40px; float:right; background:url(../../images/nav-admin1.jpg) no-repeat;}
+/*box*/
+#box{width:980px; margin:10px auto 0; overflow:hidden;}
+.left{width:260px; height:560px; float:left;}
+/*link*/
+.link{width:260px; height:290px; background:url(../../images/news-link-bg.jpg) no-repeat; padding-top:10px; margin-bottom:10px;}
+.link h2{width:240px; height:40px; margin:0 10px 11px;}
+.link ul{width:220px; height:220px; padding:10px 20px 0;}
+.link li{width:220px; height:35px; line-height:35px;}
+/*contact*/
+.contact{width:260px; height:240px; background:url(../../images/news-contact-bg.jpg) no-repeat; padding-top:10px;}
+/*right*/
+.right{width:710px; float:right;}
+/*rank*/
+.content{ background:#FFF; width:708px; border-left:1px solid #7D7D7D; border-right:1px solid #7D7D7D;}
+.content h3{background:url(../../images/line-8.jpg) no-repeat left top; height:35px; width:668px; margin:0 10px 13px; padding:15px 0 0 20px; font-size:20px; position:relative;}
+.content h3 span{ display:block; position:absolute; right:0; bottom:0; font-size:12px; font-weight:normal;}
+.content dl{background:url(../../images/line1.jpg) repeat-x left bottom; width:682px; height:26px; padding:14px 13px 0;}
+.content dt{ background:url(../../images/sign2.jpg) no-repeat left center; padding-left:20px; font-size:14px; float:left;}
+.content dd{float:right;}
+.content .page{height:35px; line-height:35px; text-align:center; margin-top:10px;}
+.content h4{text-align:center; height:35px; font-size:16px; line-height:35px;}
+.content p{ text-indent:2em; line-height:23px; padding:0 10px 10px;}

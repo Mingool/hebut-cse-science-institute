@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+/*nav*/
+.navIndex{width:62px; height:40px; float:right; background:url(../../images/nav-index1.jpg) no-repeat;}
+.navNews{width:62px; height:40px; float:right; background:url(../../images/nav-news1.jpg) no-repeat;}
+.navContact{width:62px; height:40px; float:right; background:url(../../images/nav-contact1.jpg) no-repeat;}
+.navAbout{width:62px; height:40px; float:right; background:url(../../images/nav-about2.jpg) no-repeat;}
+.navAdmin{width:62px; height:40px; float:right; background:url(../../images/nav-admin1.jpg) no-repeat;}
+/*box*/
+#box{width:980px; margin:10px auto 0; overflow:hidden;}
+.left{width:260px; height:770px; float:left;}
+/*select*/
+.select{width:260px; height:190px; background:url(../../images/about-select-bg.jpg) no-repeat; padding-top:10px; margin-bottom:10px;}
+.select h2{width:240px; height:40px; margin:0 10px 11px;}
+.select ul{width:187px; height:110px; padding:10px 20px 0 53px;}
+.select li{width:172px; height:35px; line-height:35px; background:url(../../images/sign.jpg) no-repeat left center; padding-left:15px;}
+.select a:link,.select a:visited{font-size:14px; color:#F63; font-weight:bold; text-decoration:none; font-weight:bold;}
+.select a:hover{font-size:14px; color:#F63; font-weight:bold; text-decoration:underline; font-weight:bold;}
+/*link*/
+.link{width:260px; height:290px; background:url(../../images/about-link-bg.jpg) no-repeat; padding-top:10px; margin-bottom:10px;}
+.link h2{width:240px; height:40px; margin:0 10px 11px;}
+.link ul{width:220px; height:220px; padding:10px 20px 0;}
+.link li{width:220px; height:35px; line-height:35px;}
+/*contact*/
+.contact{width:260px; height:240px; background:url(../../images/about-contact-bg.jpg) no-repeat; padding-top:10px;}
+/*right*/
+.right{width:710px; float:right;}
+/*rank*/
+.content{ background:#FFF; width:708px; border-left:1px solid #7D7D7D; border-right:1px solid #7D7D7D;}
+.content h3{background:url(../../images/line-8.jpg) no-repeat left top; height:35px; width:668px; margin:0 10px 13px; padding:15px 0 0 20px; font-size:20px; position:relative;}
+.content h3 span{ display:block; position:absolute; right:0; bottom:0; font-size:12px; font-weight:normal;}
+.content ul{width:710px; height:500px; padding-bottom:10px;}
+.content li{float:left; padding:25px 30px 0; width:113px; height:135px;}
+.content li .picture{ border:1px solid #CCC; padding:2px; width:110px; height:110px;text-indent:0;}
+.content li .title{ text-align:center; height:40px; line-height:40px; text-indent:0;}
+.content .achievementPicture{width:300px; height:200px; background:#FFF; margin:25px auto; border:1px solid #CCC;}
+.content h4{text-align:center; height:35px; font-size:16px; line-height:35px;}
+.content p{ text-indent:2em; line-height:23px; padding:0 10px 10px;}
